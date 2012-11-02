@@ -1,0 +1,10 @@
+the final objective value is: 3.7366832148726835E9
+the final objective value is: 3.7368089283604774E9
+the final objective value is: 3.7365993082278466E9
+the final objective value is: 3.73690864637493E9
+the final objective value is: 3.736636430974697E9
+the final objective value is: 3.736666911394709E9
+the final objective value is: 3.73671887878718E9
+the final objective value is: 3.743448436517685E9
+the final objective value is: 3.7373550855888844E9
+the final objective value is: 3.7367490615668874E9
